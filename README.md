@@ -1,4 +1,4 @@
 qianduanshixian
 ===============
 
-Series blogs on qianduan.com
+Series blogs on [qianduan.net](http://qianduan.net)
