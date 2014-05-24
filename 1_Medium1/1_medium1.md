@@ -138,6 +138,7 @@ background-size: <length> | <percentage> | auto | cover | contain;
 这里面是一些好看的大图覆盖的例子，但是并不是所有的页面都是通过`background-size`来实现的：
 
 * http://www.whitmansnyc.com/
+* https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en
 * http://quinntonharris.strikingly.com/
   * 其实现方式其实是背景图很大，大小设置为auto，而覆盖效果则是通过设置外面一层的div大小来实现的。
 * http://www.lattrapereve.fr/
