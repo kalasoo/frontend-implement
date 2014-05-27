@@ -54,6 +54,11 @@ html, body, .container {
   display: table;
   content: " ";
 }
+/*
+element:before  { style properties }  // CSS2 obsolete syntax (only needed to support outdated browsers)
+
+element::before { style properties }  //CSS3 syntax
+*/
 .surface:after {
   clear: both;
 }
