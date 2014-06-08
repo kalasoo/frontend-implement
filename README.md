@@ -11,3 +11,4 @@ Todo List
   - [ ] Reading & Header image & Image Overlay
 - [ ] http://www.atelier-serge-thoraval.com/fr/
 - [ ] http://elementaryos.org/
+  - [ ] Footer fixed
