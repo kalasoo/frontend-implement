@@ -10,3 +10,4 @@ Todo List
   - [ ] Sidebar & Off-set implementations
   - [ ] Reading & Header image & Image Overlay
 - [ ] http://www.atelier-serge-thoraval.com/fr/
+- [ ] http://elementaryos.org/
