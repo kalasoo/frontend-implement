@@ -6,3 +6,4 @@
 4. [http://www.gv.com/team/](http://www.gv.com/team/)
 5. [http://chapp.is/](http://chapp.is/)
 6. [http://www.buildinamsterdam.com/](http://www.buildinamsterdam.com/)
+7. [http://www.addthis.com/](http://www.addthis.com/)
